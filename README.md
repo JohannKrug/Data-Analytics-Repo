@@ -3,8 +3,8 @@
 ## LinkedIn
 ## DA-AI Ethics Statement
 ## Certifications
-## Minitab Statistics Project
-## Tableau Prep Builder and Story
+## Minitab
+## Tableau
 ## SQL 
 ## Python
 ## RPA
